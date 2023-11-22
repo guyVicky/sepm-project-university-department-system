@@ -1,0 +1,372 @@
+{
+  "P001": {
+    "title": "Enhancing Sustainable Agriculture Practices",
+    "abstract": "This project focuses on implementing sustainable agricultural practices to improve crop yield while minimizing environmental impact.",
+    "status": "Ongoing",
+    "startDate": "2023-01-01",
+    "endDate": "2024-12-31",
+    "funding": "National Agriculture Foundation",
+    "collaborators": [
+      "Dr. A. Patel",
+      "Dr. S. Khan"
+    ],
+    "updates": [
+      {
+        "date": "2023-03-15",
+        "description": "Project officially launched."
+      },
+      {
+        "date": "2023-06-01",
+        "description": "Completed first phase of data collection."
+      }
+    ]
+  },
+  "P002": {
+    "title": "Machine Learning for Medical Diagnosis",
+    "abstract": "Developing machine learning models to assist in early medical diagnosis, particularly in the field of cardiology.",
+    "status": "Completed",
+    "startDate": "2021-05-01",
+    "endDate": "2022-04-30",
+    "funding": "Health Research Council",
+    "collaborators": [
+      "Dr. M. Gupta",
+      "Dr. R. Sharma"
+    ],
+    "publications": [
+      {
+        "title": "A Machine Learning Approach to Early Heart Disease Detection",
+        "authors": [
+          "Dr. S. Singh",
+          "Dr. R. Sharma"
+        ],
+        "year": 2022,
+        "journal": "Journal of Medical Informatics"
+      },
+      {
+        "title": "Improving Diagnostic Accuracy with Ensemble Learning",
+        "authors": [
+          "Dr. A. Patel",
+          "Dr. M. Gupta"
+        ],
+        "year": 2023,
+        "conference": "International Conference on Health Informatics"
+      }
+    ]
+  },
+  "P003": {
+    "title": "Urban Sustainability and Green Infrastructure",
+    "abstract": "Analyzing the impact of green infrastructure on urban sustainability and proposing strategies for implementing eco-friendly practices in cities.",
+    "status": "Planning",
+    "startDate": "2023-08-01",
+    "endDate": null,
+    "funding": "City Planning Commission",
+    "collaborators": [
+      "Dr. N. Verma",
+      "Dr. K. Singh"
+    ],
+    "updates": [
+      {
+        "date": "2023-08-15",
+        "description": "Project planning initiated."
+      },
+      {
+        "date": "2023-10-01",
+        "description": "Research team formed."
+      }
+    ]
+  },
+  "P004": {
+    "title": "Renewable Energy Solutions for Rural Areas",
+    "abstract": "Developing and implementing renewable energy solutions to provide sustainable and affordable energy access in rural communities.",
+    "status": "Ongoing",
+    "startDate": "2022-03-01",
+    "endDate": "2023-12-31",
+    "funding": "Renewable Energy Foundation",
+    "collaborators": [
+      "Dr. R. Kumar",
+      "Dr. P. Sharma"
+    ],
+    "updates": [
+      {
+        "date": "2022-06-01",
+        "description": "Commenced field trials."
+      },
+      {
+        "date": "2023-01-15",
+        "description": "Completed initial data analysis."
+      }
+    ]
+  },
+  "P005": {
+    "title": "Exploring Artificial Intelligence in Education",
+    "abstract": "Investigating the potential of artificial intelligence in enhancing educational technologies and improving learning outcomes.",
+    "status": "Completed",
+    "startDate": "2020-09-01",
+    "endDate": "2021-08-31",
+    "funding": "Ministry of Education",
+    "collaborators": [
+      "Dr. S. Kapoor",
+      "Dr. A. Verma"
+    ],
+    "publications": [
+      {
+        "title": "Intelligent Tutoring Systems: A Comprehensive Review",
+        "authors": [
+          "Dr. M. Gupta",
+          "Dr. S. Kapoor"
+        ],
+        "year": 2021,
+        "journal": "Educational Technology Research and Development"
+      },
+      {
+        "title": "Enhancing Adaptive Learning Platforms with AI",
+        "authors": [
+          "Dr. A. Verma",
+          "Dr. R. Sharma"
+        ],
+        "year": 2021,
+        "conference": "International Conference on Educational Technology"
+      }
+    ]
+  },
+  "P006": {
+    "title": "Climate Change Adaptation Strategies",
+    "abstract": "Assessing and developing strategies for communities to adapt to the impacts of climate change, with a focus on vulnerable regions.",
+    "status": "Ongoing",
+    "startDate": "2022-11-01",
+    "endDate": null,
+    "funding": "Climate Resilience Fund",
+    "collaborators": [
+      "Dr. K. Singh",
+      "Dr. S. Khan"
+    ],
+    "updates": [
+      {
+        "date": "2022-12-15",
+        "description": "Initiated community workshops."
+      },
+      {
+        "date": "2023-03-01",
+        "description": "Data collection in progress."
+      }
+    ]
+  },
+  "P007": {
+    "title": "Advancements in Quantum Computing",
+    "abstract": "Investigating the latest advancements in quantum computing and exploring potential applications in various scientific and industrial domains.",
+    "status": "Ongoing",
+    "startDate": "2021-08-01",
+    "endDate": null,
+    "funding": "Quantum Technologies Research Fund",
+    "collaborators": [
+      "Dr. A. Kumar",
+      "Dr. R. Sharma"
+    ],
+    "updates": [
+      {
+        "date": "2021-10-01",
+        "description": "Received state-of-the-art quantum processor."
+      },
+      {
+        "date": "2022-02-15",
+        "description": "Conducted successful quantum entanglement experiment."
+      }
+    ]
+  },
+  "P008": {
+    "title": "Smart Cities and IoT Integration",
+    "abstract": "Integrating Internet of Things (IoT) technologies into urban infrastructure to develop smart cities and improve overall quality of life.",
+    "status": "Completed",
+    "startDate": "2019-07-01",
+    "endDate": "2020-06-30",
+    "funding": "Smart Cities Initiative",
+    "collaborators": [
+      "Dr. N. Verma",
+      "Dr. A. Patel"
+    ],
+    "publications": [
+      {
+        "title": "IoT-Enabled Smart Traffic Management Systems",
+        "authors": [
+          "Dr. A. Patel",
+          "Dr. N. Verma"
+        ],
+        "year": 2020,
+        "journal": "International Journal of Smart Cities"
+      },
+      {
+        "title": "Smart Waste Management: A Case Study",
+        "authors": [
+          "Dr. K. Singh",
+          "Dr. R. Kumar"
+        ],
+        "year": 2020,
+        "conference": "International Conference on IoT Technologies"
+      }
+    ]
+  },
+  "P009": {
+    "title": "Biodiversity Conservation in Tropical Rainforests",
+    "abstract": "Studying and implementing conservation strategies to protect biodiversity in tropical rainforests, focusing on endangered species and ecosystems.",
+    "status": "Ongoing",
+    "startDate": "2020-12-01",
+    "endDate": null,
+    "funding": "Rainforest Conservation Foundation",
+    "collaborators": [
+      "Dr. S. Khan",
+      "Dr. P. Sharma"
+    ],
+    "updates": [
+      {
+        "date": "2021-03-15",
+        "description": "Established biodiversity monitoring stations."
+      },
+      {
+        "date": "2021-07-01",
+        "description": "Identified new species of flora."
+      }
+    ]
+  },
+  "P010": {
+    "title": "Enhancing Cybersecurity Measures",
+    "abstract": "Developing and implementing advanced cybersecurity measures to protect sensitive data and ensure the integrity of digital systems.",
+    "status": "Planning",
+    "startDate": "2023-05-01",
+    "endDate": null,
+    "funding": "National Cybersecurity Agency",
+    "collaborators": [
+      "Dr. R. Sharma",
+      "Dr. A. Kumar"
+    ],
+    "updates": [
+      {
+        "date": "2023-05-15",
+        "description": "Project planning initiated."
+      },
+      {
+        "date": "2023-07-01",
+        "description": "Research team formation in progress."
+      }
+    ]
+  },
+  "P011": {
+    "title": "Understanding Dark Matter in the Universe",
+    "abstract": "Investigating the properties of dark matter and its role in the formation and evolution of galaxies and cosmic structures.",
+    "status": "Ongoing",
+    "startDate": "2022-02-01",
+    "endDate": null,
+    "funding": "National Space Research Organization",
+    "collaborators": [
+      "Dr. A. Patel",
+      "Dr. S. Singh"
+    ],
+    "updates": [
+      {
+        "date": "2022-04-01",
+        "description": "Conducted initial data analysis of dark matter simulations."
+      },
+      {
+        "date": "2022-08-15",
+        "description": "Published findings in Astrophysical Journal."
+      }
+    ]
+  },
+  "P012": {
+    "title": "Innovations in Green Energy Storage",
+    "abstract": "Exploring innovative solutions for energy storage, with a focus on sustainable and eco-friendly technologies for renewable energy sources.",
+    "status": "Ongoing",
+    "startDate": "2021-09-01",
+    "endDate": null,
+    "funding": "Green Energy Innovation Fund",
+    "collaborators": [
+      "Dr. R. Kumar",
+      "Dr. M. Gupta"
+    ],
+    "updates": [
+      {
+        "date": "2021-11-01",
+        "description": "Initiated prototype development for green energy storage device."
+      },
+      {
+        "date": "2022-02-15",
+        "description": "Received positive results from initial testing."
+      }
+    ]
+  },
+  "P013": {
+    "title": "Promoting Mental Health Awareness",
+    "abstract": "Developing awareness campaigns and strategies to promote mental health and well-being in educational institutions and communities.",
+    "status": "Completed",
+    "startDate": "2019-11-01",
+    "endDate": "2020-10-31",
+    "funding": "Mental Health Foundation",
+    "collaborators": [
+      "Dr. S. Kapoor",
+      "Dr. A. Verma"
+    ],
+    "publications": [
+      {
+        "title": "Addressing Mental Health Stigma in Educational Settings",
+        "authors": [
+          "Dr. S. Kapoor",
+          "Dr. A. Verma"
+        ],
+        "year": 2020,
+        "journal": "Journal of Mental Health Education"
+      },
+      {
+        "title": "Community-Based Mental Health Initiatives: Lessons Learned",
+        "authors": [
+          "Dr. R. Sharma",
+          "Dr. N. Verma"
+        ],
+        "year": 2020,
+        "book": "Springer Briefs in Psychology"
+      }
+    ]
+  },
+  "P014": {
+    "title": "Advancements in 5G Network Technologies",
+    "abstract": "Investigating and implementing advancements in 5G network technologies to enhance connectivity and communication systems.",
+    "status": "Ongoing",
+    "startDate": "2022-06-01",
+    "endDate": null,
+    "funding": "Telecommunications Innovation Fund",
+    "collaborators": [
+      "Dr. A. Kumar",
+      "Dr. K. Singh"
+    ],
+    "updates": [
+      {
+        "date": "2022-08-01",
+        "description": "Conducted successful 5G network trials."
+      },
+      {
+        "date": "2022-11-15",
+        "description": "Collaborated with industry partners for implementation in urban areas."
+      }
+    ]
+  },
+  "P015": {
+    "title": "Cancer Research and Therapeutics",
+    "abstract": "Conducting research on cancer biology, exploring potential therapeutic interventions, and contributing to advancements in cancer treatment.",
+    "status": "Ongoing",
+    "startDate": "2020-04-01",
+    "endDate": null,
+    "funding": "National Cancer Institute",
+    "collaborators": [
+      "Dr. M. Gupta",
+      "Dr. S. Singh"
+    ],
+    "updates": [
+      {
+        "date": "2020-06-01",
+        "description": "Established cancer cell culture laboratory."
+      },
+      {
+        "date": "2021-01-15",
+        "description": "Identified potential drug candidates for further testing."
+      }
+    ]
+  }
+}

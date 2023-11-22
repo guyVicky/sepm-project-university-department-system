@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="re.css">
+    <title>University Department Information System</title>
+</head>
+<body>
+    <header>
+        <h1><a href="/" style="text-decoration: none;">C. V. RAMAN GLOBAL UNIVERSITY</a></h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="/management">Management</a></li>
+            <li><a href="/calculate">Calculation</a></li>
+            <li><a href="/research">Research & Publications</a></li>
+            <li><a href="/info">Information</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="research">
+            <h2>Research & Publication</h2>
+            <form id="researchForm">
+                <label for="projectID">Project ID:</label>
+                <input type="text" id="projectID" name="projectID" required>
+
+                <button type="button" onclick="getResearch()">RETRIEVE</button>
+            </form>
+            <a href="/research/submit"><button type="button" style="background-color: rgb(5, 58, 42);margin: auto;">VIEW SUBMIT FORM</button></a>
+        </section>
+        <section id="table-section">
+            <div id="table-container"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy;  2023 C. V. RAMAN GLOBAL UNIVERSITY Site. All rights reserved.</p>
+    </footer>
+
+    <script src="re.js"></script>
+</body>
+</html>

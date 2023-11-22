@@ -1,0 +1,81 @@
+/* styles.css */
+#studentInfo {
+    margin-top: 20px;
+    
+}
+
+#studentInfo p {
+    margin: 10px 0;
+    font-size: 16px;
+    
+}
+
+/* Style the input and button */
+#rollNumber {
+    padding: 8px;
+    font-size: 16px;
+}
+
+#fetchButton {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2196f3;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 0.5em;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 1em;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.container {
+    text-align: center;
+    background-color: #fff;
+    
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

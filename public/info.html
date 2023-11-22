@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="info.css">
+    <title>University Department Information System</title>
+</head>
+<body>
+    <header>
+        <h1><a href="/" style="text-decoration: none;">C. V. RAMAN GLOBAL UNIVERSITY</a></h1>    </header>
+    <nav>
+        <ul>
+            <li><a href="/management">Management</a></li>
+            <li><a href="/calculate">Calculation</a></li>
+            <li><a href="/research">Research & Publications</a></li>
+            <li><a href="/info">Information</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="information">
+            <h2>Student Information</h2>
+            <form id="informationForm">
+                <label for="registrationNumber">Registration Number:</label>
+                <input type="text" id="registrationNumber" name="registrationNumber" required>
+
+                <button type="button" onclick="fetchStudentInfo()">Get Information</button>
+            </form>
+            <div id="studentInfo"></div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy;  2023 C. V. RAMAN GLOBAL UNIVERSITY Site. All rights reserved.</p>
+    </footer>
+    <script src="info.js"></script>
+</body>
+</html>

@@ -1,0 +1,92 @@
+{
+  "2101020153": {
+    "Programming using C": "O",
+    "Introduction to Mechanical Engineering": "E",
+    "Mathematics-I": "A",
+    "Physics": "E"
+  },
+  "2101020438": {
+    "Programming using C": "E",
+    "Introduction to Mechanical Engineering": "B",
+    "Mathematics-I": "A",
+    "Physics": "O"
+  },
+  "2101020572": {
+    "Programming using C": "A",
+    "Introduction to Mechanical Engineering": "O",
+    "Mathematics-I": "B",
+    "Physics": "E"
+  },
+  "2101020815": {
+    "Programming using C": "B",
+    "Introduction to Mechanical Engineering": "A",
+    "Mathematics-I": "O",
+    "Physics": "A"
+  },
+  "2101020999": {
+    "Programming using C": "O",
+    "Introduction to Mechanical Engineering": "O",
+    "Mathematics-I": "A",
+    "Physics": "A"
+  },
+  "2101021123": {
+    "Programming using C": "A",
+    "Introduction to Mechanical Engineering": "A",
+    "Mathematics-I": "O",
+    "Physics": "O"
+  },
+  "2101021255": {
+    "Programming using C": "B",
+    "Introduction to Mechanical Engineering": "B",
+    "Mathematics-I": "A",
+    "Physics": "O"
+  },
+  "2101021388": {
+    "Programming using C": "O",
+    "Introduction to Mechanical Engineering": "O",
+    "Mathematics-I": "A",
+    "Physics": "E"
+  },
+  "2101021444": {
+    "Programming using C": "E",
+    "Introduction to Mechanical Engineering": "O",
+    "Mathematics-I": "A",
+    "Physics": "B"
+  },
+  "2101021577": {
+    "Programming using C": "A",
+    "Introduction to Mechanical Engineering": "B",
+    "Mathematics-I": "O",
+    "Physics": "O"
+  },
+  "2101021666": {
+    "Programming using C": "O",
+    "Introduction to Mechanical Engineering": "E",
+    "Mathematics-I": "B",
+    "Physics": "A"
+  },
+  "2101021789": {
+    "Programming using C": "B",
+    "Introduction to Mechanical Engineering": "A",
+    "Mathematics-I": "O",
+    "Physics": "O"
+  },
+  "2101021890": {
+    "Programming using C": "O",
+    "Introduction to Mechanical Engineering": "O",
+    "Mathematics-I": "A",
+    "Physics": "B"
+  },
+  "2101021947": {
+    "Programming using C": "A",
+    "Introduction to Mechanical Engineering": "B",
+    "Mathematics-I": "O",
+    "Physics": "E"
+  },
+  "2101022001": {
+    "Programming using C": "E",
+    "Introduction to Mechanical Engineering": "A",
+    "Mathematics-I": "O",
+    "Physics": "A"
+  }
+}

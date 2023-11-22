@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>University Department Information System</title>
+    <style>
+      /* Reset some default styles */
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f7f7f7;
+        margin: 0;
+        padding: 0;
+      }
+
+      header {
+        background-color: #2196f3;
+        color: #fff;
+        text-align: center;
+        padding: 1em;
+      }
+
+      nav {
+        background-color: #333;
+        color: #fff;
+        padding: 0.5em;
+      }
+
+      nav ul {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+      }
+
+      nav ul li {
+        margin: 0 1em;
+      }
+
+      nav ul li a {
+        color: #fff;
+        text-decoration: none;
+      }
+
+      main {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2em;
+      }
+
+      section {
+        margin-bottom: 2em;
+      }
+
+      footer {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 1em;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+      }
+
+      /* Specific styles for the Calculation section */
+      #calculation {
+        text-align: center;
+      }
+
+      #calculationForm {
+        display: flex;
+        flex-direction: column;
+        width: 50%;
+        margin: 0 auto;
+        background-color: #fff;
+        padding: 2em;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+      }
+
+      label {
+        font-weight: bold;
+        margin-bottom: 0.5em;
+      }
+
+      input[type="text"],
+      input[type="date"], 
+      textarea {
+        padding: 0.5em;
+        margin-bottom: 1em;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+      }
+
+      input[type="text"]:focus,
+      input[type="date"]:focus,
+      textarea:focus {
+        outline: none;
+        border: 2px solid #333;
+      }
+
+      button[type="button"] {
+        align-self: flex-end;
+        background-color: #2196f3;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        font-size: 1rem;
+        cursor: pointer;
+        transition: all 0.5s;
+      }
+
+      button[type="button"]:hover {
+        background-color: #0d47a1;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <h1>C. V. RAMAN GOBAL UNIVERSITY</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="/research">BACK</a></li>
+      </ul>
+    </nav>
+
+    <main>
+      <section id="calculation">
+        <h2>SUBMISSION</h2>
+        <form id="calculationForm">
+          <label for="projectTitle">PROJECT TITLE:</label>
+          <input
+            type="text"
+            id="projectTitle"
+            name="projectTitle"
+            required
+          />
+
+          <label for="abstractInfo">ABSTRACT:</label>
+          <textarea
+            id="abstractInfo"
+            name="abstractInfo"
+            rows="6"
+            required
+          ></textarea>
+
+          <label for="">STATUS:</label>
+          <input type="text" id="status" name="status" required />
+
+          <label for="semester">Semester:</label>
+          <input type="text" id="semester" name="semester" required />
+
+          <label for="startDate">START DATE:</label>
+          <input type="date" id="startDate" name="startDate" required />
+
+          <label for="endDate">END DATE:</label>
+          <input type="date" id="endDate" name="endDate" required />
+
+          <label for="funding">FUNDING:</label>
+          <input type="text" id="funding" name="funding" required />
+
+          <label for="collaborators">COLLABORATORS:</label>
+          <input type="text" id="collaborators" name="collaborators" required />
+
+
+          <button type="button" onclick="submitResearchForm()">
+            Submit
+          </button>
+        </form>
+      </section>
+    </main>
+
+    <footer>
+      &copy; 2023 C. V. RAMAN GOBAL UNIVERSITY Site. All rights reserved.
+    </footer>
+
+    <script>
+        let x=16;
+        function submitResearchForm() {
+            alert(`Your research has been submitted to the database, Your project ID is P0${x++}`)
+        }
+    </script>
+  </body>
+</html>
