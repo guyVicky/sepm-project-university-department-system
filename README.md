@@ -1,4 +1,4 @@
-# # University Department System
+# University Department System
 
 This is a simple Node.js project for managing university department information.
 
